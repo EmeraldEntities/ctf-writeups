@@ -13,7 +13,7 @@ Hints:
 ### My Process
 We're given this image:
 
-![dolls](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf%202021/information/dolls.jpg?raw=true)
+![dolls](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf%202021/matryoshka-doll/dolls.jpg?raw=true)
 
 We're told that there are files inside this png... sounds like a `binwalk` moment!
 
