@@ -9,11 +9,11 @@
 
 We're given a word document. Opening it up gives us this document.
 
-![word](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf%202021/weird-file/writeup-files/macaroni1.png?raw=true)
+![word](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf%202021/weird-file/writeup-files/macaroni1.PNG?raw=true)
 
 Cool. Let's check the macros:
 
-![macro time](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf%202021/weird-file/writeup-files/macaroni2.png?raw=true)
+![macro time](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf%202021/weird-file/writeup-files/macaroni2.PNG?raw=true)
 
 Awesome. Let's decode the Base64 which should give us our flag.
 
