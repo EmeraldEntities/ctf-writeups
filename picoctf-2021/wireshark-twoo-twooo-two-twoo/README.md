@@ -42,7 +42,7 @@ This may not be a fruitful observation, but I want to look in every corner if I 
 
 ![Interesting DNS...](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf-2021/wireshark-twoo-twooo-two-twoo/writeup-files/dns1.png?raw=true)
 
-Okay... Interesting. One thing that really caught my eye now is the filler text before `reddshrimpandherring.com`. Before, I dismissed it as just some garbage, but now that I see them all lined up, I thought it looked like Base64. I put in some random text from a random packet into CodeChef in an attempt to decode it but it spat out nothing. How about we check out the rest of the filtered packets? Looking at the bottom, we see:
+Okay... Interesting. One thing that really caught my eye now is the filler text before `reddshrimpandherring.com`. Before, I dismissed it as just some garbage, but now that I see them all lined up, I thought it looked like Base64. I put in some random text from a random packet into CyberChef in an attempt to decode it but it spat out nothing. How about we check out the rest of the filtered packets? Looking at the bottom, we see:
 
 ![Interesting bottom...](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf-2021/wireshark-twoo-twooo-two-twoo/writeup-files/dns2.png?raw=true)
 

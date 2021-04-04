@@ -2,7 +2,7 @@
 
 | Points | Category         | Author    |
 |--------|------------------|-----------|
-| **10** | Web Exploitation | MADSTACKS |
+| **10** | Web Exploitation | madStacks |
 
 ### Description
 > I must have been sleep hacking or something, I don't remember visiting all of these sites... http://mercury.picoctf.net:46715/ (try a couple different browsers if it's not working right)
