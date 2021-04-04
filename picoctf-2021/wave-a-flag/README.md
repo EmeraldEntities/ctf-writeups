@@ -24,6 +24,6 @@ After downloading the file, I ran `./warm -h` on WSL as suggested by the descrip
 
 `Oh, help? I actually don't do much, but I do have this flag here: picoCTF{b1scu1ts_4nd_gr4vy_f0668f62}`
 
-There's the flag. I admit, I got a bit attached to the program in the second it took to run the command.
+There's the flag. I admit, I got a bit attached to the program during the few milliseconds or however long it took to run the command.
 
 **Flag:** `picoCTF{b1scu1ts_4nd_gr4vy_f0668f62}`
