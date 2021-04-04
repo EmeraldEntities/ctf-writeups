@@ -1,4 +1,4 @@
-# Obedient Cat
+# Nice netcat...
 
 | Points  | Category       | Author |
 |---------|----------------|--------|
