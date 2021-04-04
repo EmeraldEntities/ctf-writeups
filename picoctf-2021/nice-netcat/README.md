@@ -14,7 +14,7 @@
 
 ### My Process
 
-Running the netcat[^1] gives you this:
+Running the netcat gives you this:<sup id="a1">[[1]](#f1)</sup> 
 
 ```
 112
@@ -61,8 +61,10 @@ Running the netcat[^1] gives you this:
 10
 ```
 
-Putting that ASCII into CyberChef `From Charcode` with a base of `10` with delimiter set as `Line feed` gives us the flag.
+Putting that ASCII into CyberChef `From Charcode` with a base of `10` with delimiter set as `Line feed` gives us the flag.[^1]
 
 **Flag:** `picoCTF{g00d_k1tty!_n1c3_k1tty!_afd5fda4}`
 
-[^1]: [Wikipedia](https://en.wikipedia.org/wiki/Netcat) has a good article about whatever the heck a netcat is.
+***
+
+<b id="f1">1.</b> In case you still don't know, [Wikipedia](https://en.wikipedia.org/wiki/Netcat) has a good article about whatever the heck a netcat is. [↩︎](#a1)
