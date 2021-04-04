@@ -28,6 +28,7 @@ When I put in `curl -I http://mercury.picoctf.net:34561/index.php`, I get:
 
 ```
 HTTP/1.1 200 OK
+
 flag: picoCTF{r3j3ct_th3_du4l1ty_8f878508}
 Content-type: text/html; charset=UTF-8
 ```
@@ -39,4 +40,5 @@ Awesome, there's our flag!
 ***
 
 <b id="f1">1.</b> If you don't know what HTTP methods are, [check out Mozilla's docs on this.](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) [↩︎](#a1)
+
 <b id="f2">2.</b> If you don't know what HTTP headers are, [Mozilla is all you need.](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) [↩︎](#a2)
