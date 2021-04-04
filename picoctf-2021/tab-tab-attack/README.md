@@ -24,7 +24,7 @@ Archive:  addadshashanammu.zip
   inflating: Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku/fang-of-haynekhtnamet
 ```
 
-Just save yourself some time and mental anguish and use tab to complete the file... Or copy and paste `Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku/`. Either way, just run `./fang-of-haynekhtnamet` to get:
+Just save yourself some time and mental anguish and use tab to complete the file... or copy and paste `Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku/`. Either way, just run `./fang-of-haynekhtnamet` to get:
 
 `*ZAP!* picoCTF{l3v3l_up!_t4k3_4_r35t!_2bcfb2ab}`
 
