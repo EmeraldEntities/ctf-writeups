@@ -37,7 +37,7 @@ After extraction it, you'll see this program is actually Steghide! Steghide is a
 
 This is where I began to massively overthink. I focused in on `picture2.bmp` because it looked SIGNIFICANTLY larger than the rest (35mb to 3mb), but this was a massive mistake. I tried variations of `DUEDILIGENCE` on Steghide trying to extract it and nothing worked. I tried ignoring Steghide and running `binwalk` or other stego tools. Nothing worked.
 
-Finally, I resorted to creating brute-force applications to test all three pictures at the same time. After finding this [excellent steghide brute-force repository by Va5c0](https://github.com/Va5c0/Steghide-Brute-Force-Tool) (hope I didn't violate the license oops), I used the code as a guide to brute force every file with a txt of potential passwords I brainstormed...
+Finally, I resorted to creating brute-force applications to test all three pictures at the same time. After finding this [excellent steghide brute-force repository by Va5c0](https://github.com/Va5c0/Steghide-Brute-Force-Tool) (hope I didn't violate the license oops), I used the code as a guide to write code to brute force every file with a txt of potential passwords I brainstormed...
 
 ```python
 def Steg_brute():
@@ -74,6 +74,6 @@ Steg_brute()
 
 ![Blessing!](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf-2021/trivial-flag-transfer-protocol/writeup-files/tftp2.png?raw=true)
 
-Turns out all along that the password was really `DUEDILIGENCE`, but it was in `picture3.bmp`! Well, now that we decoded the flag, we can finally open up `picture3_flag.txt` and get our well-deserved flag as well as a good lesson on never to... [tunnel vision](../tunn3l-vis10n/).
+Turns out all along that the password was really `DUEDILIGENCE`, but it was in `picture3.bmp`! Well, now that we decoded the flag, we can finally open up `picture3_flag.txt` and get our well-deserved flag, as well as a good lesson on never to... [tunnel vision](../tunn3l-v1s10n/).
 
 **Flag:** `picoCTF{h1dd3n_1n_pLa1n_51GHT_18375919}`
