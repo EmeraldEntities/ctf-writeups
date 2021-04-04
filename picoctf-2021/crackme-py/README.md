@@ -1,7 +1,8 @@
 # crackme.py
-#### 30 points
-###### Reverse Engineering
-###### Author: SYREAL
+
+| Points | Category            | Author |
+|--------|---------------------|--------|
+| **30** | Reverse Engineering | syreal |
 
 ### Description
 > [crackme.py](https://mercury.picoctf.net/static/b7cabaae6561256c50728d3515db3058/crackme.py)

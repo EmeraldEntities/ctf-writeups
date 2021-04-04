@@ -1,7 +1,8 @@
 # Disk, disk, sleuth! II
-#### 130 points
-###### Forensics
-###### Author: SYREAL
+
+| Points  | Category  | Author |
+|---------|-----------|--------|
+| **130** | Forensics | syreal |
 
 ### Description
 > All we know is the file with the flag is named `down-at-the-bottom.txt`... Disk image: [dds2-alpine.flag.img.gz](https://mercury.picoctf.net/static/aed64c508175df5fe23207c10e0e47e5/dds2-alpine.flag.img.gz)

@@ -1,7 +1,8 @@
 # information
-#### 10 points
-###### Forensics
-###### Author: SUSIE
+
+| Points | Category  | Author |
+|--------|-----------|--------|
+| **10** | Forensics | Susie  |
 
 ### Description
 > Files can always be changed in a secret way. Can you find the flag? [cat.jpg](https://mercury.picoctf.net/static/e5825f58ef798fdd1af3f6013592a971/cat.jpg)

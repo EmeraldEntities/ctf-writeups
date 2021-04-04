@@ -1,7 +1,8 @@
 # Weird File
-#### 20 points
-###### Forensics
-###### Author: THELSHELL
+
+| Points | Category  | Author     |
+|--------|-----------|------------|
+| **20** | Forensics | thelshell  |
 
 ### Description
 > What could go wrong if we let Word documents run programs? (aka "in-the-clear").
