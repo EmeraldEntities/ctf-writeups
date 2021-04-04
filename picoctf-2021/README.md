@@ -44,7 +44,7 @@ Overall, another great year with some nice problems. Good work, Pico devs! Looki
 |[Who are you?                    ]()                               |Web Exploitation   |100|                                             |   |
 |[Mod 26                          ]()                               |Cryptography       |10 |                                             |   |
 |[Pixelated                       ](pixelated/)                     |Cryptography       |200|`picoCTF{h1dd3n_1n_pLa1n_51GHT_18375919}`    |   |
-|[crackme.py                      ](crackme-py)                     |Reverse Engineering|30 |`picoCTF{1|\/|_4_p34|\|ut_f3bc410e}`         |✓  |
+|[crackme.py                      ](crackme-py)                     |Reverse Engineering|30 |`picoCTF{1\|\/\|_4_p34\|\\|ut_f3bc410e}`         |✓  |
 |[keygenme.py                     ](keygenme-py/)                   |Reverse Engineering|30 |`picoCTF{th4ts_k1nd4_n34t_53c701d9}`         |   |
 |[Shop                            ](shop/)                          |Reverse Engineering|50 |`picoCTF{b4d_brogrammer_3da34a8f}`           |   |
 
