@@ -1,14 +1,19 @@
-# Wireshark twoo twooo two twoo... (100 points)
+# Wireshark twoo twooo two twoo...
+#### 100 points
+###### Forensics
+###### Author: DYLAN
 
+### Description
 > Can you find the flag?
 
-Hints:
+### Hints
 > Did you really find _the_ flag?
+
 > Look for traffic that seems suspicious.
 
+### My Process
 Hoooo boy, a wireshark one. I don't use wireshark a lot, so it'll be fun finding the flag. Also the second in the series, meaning large dump + excessive combing + irregular hiding location... not fun.
 
-### My Process
 Opening up the pcapnp, we can see ~5000 packets... fun. We're given through various hints on Discord that this will be like Shark on wire 2, where the flag was hidden among the ports. Someone also deliberately mentions "Port numbers", so we'll keep an eye out for those.
 
 Let's examine this project like how we did `Shark on Wire 2`. Looking through the streams (yes, all 900 udp streams and all 200 tcp streams), we can see udp.stream 0 has some interesting capital words sprinkled into the body. The rest is filled with garbage.

@@ -1,15 +1,15 @@
 # Milkslap
-##### 200 points
+#### 200 points
 ###### Forensics
 ###### Author: JAMES LYNCH
 
-> 🥛
+### Description
+> [🥛](http://mercury.picoctf.net:5013/)
 
-Hints:
+### Hints
 > Look at the problem category
 
 ### My Process
-
 The milk actually takes us to a webpage, http://mercury.picoctf.net:5013/. When we access it we see that it's set up just like [eelslap](http://eelslap.com/) (actually, this challenge was inspired by it). Let's take the hint's advice and treat this as a forensics problem, meaning no looking for robots, looking too closely at html, etc etc etc. 
 
 The first thing I did was try to find the image for the milkslap, and to do that, I opened up inspect element and looked at the *Sources* tab. With that, I was able to find a big 17 MB image file to download... Fun!

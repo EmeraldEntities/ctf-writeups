@@ -1,11 +1,12 @@
 # Disk, disk, sleuth!
-##### 110 points
+#### 110 points
 ###### Forensics
 ###### Author: SYREAL
 
-> Use `srch_strings` from the sleuthkit and some terminal-fu to find a flag in this disk image
+### Description
+> Use `srch_strings` from the sleuthkit and some terminal-fu to find a flag in this disk image: [dds1-alpine.flag.img.gz](https://mercury.picoctf.net/static/626ea9c275fbd02dd3451b81f9c5e249/dds1-alpine.flag.img.gz)
 
-Hints:
+### Hints
 > Have you ever used `file` to determine what a file was?
 
 > Relevant terminal-fu in picoGym: https://play.picoctf.org/practice/challenge/85
@@ -15,7 +16,6 @@ Hints:
 > Using your own computer, you could use qemu to boot from this disk!
 
 ### My Process
-
 We're given a compressed disk image. Nice, haven't seen this kind of problem before!
 
 After saving it (and making sure to use `gzip -d`, decompressing it as it gives us a `.gz`), we're greeted with—you guessed it—a disk image.
