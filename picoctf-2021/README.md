@@ -30,7 +30,7 @@ Overall, another great year with some nice problems. Good work, Pico devs! Looki
 |[information                     ](information/)                   |Forensics          |10 |`picoCTF{the_m3tadata_1s_modified}`          |✓  |
 |[Weird File                      ](weird-file/)                    |Forensics          |20 |`picoCTF{m4cr0s_r_d4ng3r0us}`                |✓  |
 |[Matryoshka doll                 ](matryoshka-doll/)               |Forensics          |30 |`picoCTF{4f11048e83ffc7d342a15bd2309b47de}`  |✓  |
-|[tunn3l v1s10n                   ](tunn3l-v1s10n/)                 |Forensics          |40 |`picoCTF{quit3_a_v13w_2020}`                 |✓  |
+|[tunn3l v1s10n                   ](tunn3l-v1s10n/)                 |Forensics          |40 |`picoCTF{quit3_a_v13w_2020}`                 |   |
 |[Wireshark doo dooo do doo...    ](wireshark-doo-dooo-do-doo/)     |Forensics          |50 |`picoCTF{p33kab00_1_s33_u_deadbeef}`         |✓  |
 |[Trivial Flag Transfer Protocol  ](trivial-flag-transfer-protocol/)|Forensics          |90 |`picoCTF{h1dd3n_1n_pLa1n_51GHT_18375919}`    |✓  |
 |[Wireshark twoo twooo two twoo...](wireshark-twoo-twooo-two-twoo/) |Forensics          |100|`picoCTF{dns_3xf1l_ftw_deadbeef}`            |✓  |
