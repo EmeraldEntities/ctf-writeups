@@ -74,6 +74,6 @@ Steg_brute()
 
 ![Blessing!](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf-2021/trivial-flag-transfer-protocol/writeup-files/tftp2.png?raw=true)
 
-Turns out all along that the password was really `DUEDILIGENCE`, but it was in `picture3.bmp`! Well, now that we decoded the flag, we can finally open up `picture3_flag.txt` and get our well-deserved flag as well as a good lesson on never to... [tunnel vision](../tunn3l-vis10n/).
+Turns out all along that the password was really `DUEDILIGENCE`, but it was in `picture3.bmp`! Well, now that we decoded the flag, we can finally open up `picture3_flag.txt` and get our well-deserved flag, as well as a good lesson on never to... [tunnel vision](../tunn3l-v1s10n/).
 
 **Flag:** `picoCTF{h1dd3n_1n_pLa1n_51GHT_18375919}`
