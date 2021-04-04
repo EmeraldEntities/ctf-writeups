@@ -16,7 +16,7 @@ After opening the provided `pcapng` with Wireshark, we're greeted with some pack
 
 TFTP (Trivial File Transfer Protocol) is a protocol designed to transfer files, and sends them unencrypted onto the network. Let's go to Wireshark -> Home -> Export Objects -> TFTP and see if we can recover any of these objects.
 
-![Objects!](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf%202021/trivial-flag-transfer-protocol/writeup-files/tftp.png?raw=true)
+![Objects!](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf-2021/trivial-flag-transfer-protocol/writeup-files/tftp.png?raw=true)
 
 After exporting these objects, let's inspect them. `instructions.txt` and `plan` look like a good start... I bet you `plan` is just a `txt` but not labelled as one.
 
@@ -36,7 +36,7 @@ Once you extract it, you'll see this program is actually Steghide! Steghide is a
 
 This is where I began to massively overthink. I focused in on `picture2.bmp` because it looked larger, but this was a massive mistake. I tried variations of `DUEDILIGENCE` on Steghide trying to extract it and nothing worked. I tried ignoring Steghide and running `binwalk` or other stego tools. Finally, I resorted to writing/looking up brute-force applications to test all three pictures at the same time... and presto.
 
-![Blessing!](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf%202021/trivial-flag-transfer-protocol/writeup-files/tftp2.png?raw=true)
+![Blessing!](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf-2021/trivial-flag-transfer-protocol/writeup-files/tftp2.png?raw=true)
 
 Turns out all along that the password was really `DUEDILIGENCE`, but it was in `picture3.bmp`! Well, now that we solved it, we can finally open up `picture3_flag.txt` and get our well-deserved flag.
 

@@ -18,7 +18,7 @@ Since this is the first wireshark challenge and only worth 50 points, I figure t
 
 Oh, what's this? On `tcp.stream eq 5`, there appears to be an encrypted something... and it looks like a flag?
 
-![Interesting traffic...](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf%202021/wireshark-doo-dooo-do-doo/writeup-files/pictureshark-doo-doooo-dooo-doo.png?raw=true)
+![Interesting traffic...](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf-2021/wireshark-doo-dooo-do-doo/writeup-files/pictureshark-doo-doooo-dooo-doo.png?raw=true)
 
 Let's run it through a ROT13 cipher since it looks like a simple shift cipher.
 

@@ -16,7 +16,7 @@ The website brings us to a site that seems to say "Hello World". Judging by the 
 
 At the start, the script looked mighty scary and obfuscated (and I don't like obfuscation), but one glance through and you'll see:
 
-![wacky script](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf%202021/ancient-history/writeup-files/herstory.png?raw=true)
+![wacky script](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf-2021/ancient-history/writeup-files/herstory.png?raw=true)
 
 It looks like the flag just goes in a descending manner, letter by letter. Nice! We can just assemble that.
 

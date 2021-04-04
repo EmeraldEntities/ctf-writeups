@@ -20,7 +20,7 @@ Great, the image is downloaded. Here comes the hard part of forensics—guessing
 
 After cracking it open in Stegsolve, I looked through every filter until I found one that looked weird—`Blue plane 0`. It was pitch black with some white text at the top, but sadly the Stegsolve UI blocked it. To get around this, I simply extracted the preview, applied only the Blue 0 bit plane, and looked at the text—and bam!
 
-![milk slapping gives flags!](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf%202021/milkslap/writeup-files/slappedmilk.PNG?raw=true)
+![milk slapping gives flags!](https://github.com/EmeraldEntities/ctf-writeups/blob/main/picoctf-2021/milkslap/writeup-files/slappedmilk.PNG?raw=true)
 
 There's the flag!
 
