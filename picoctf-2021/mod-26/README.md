@@ -1,4 +1,4 @@
-# Cookies
+# Mod 26
 
 | Points | Category     | Author |
 |--------|--------------|--------|
