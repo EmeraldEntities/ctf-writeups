@@ -1,6 +1,10 @@
 # PicoCTF 2021
 A two-week long beginner CTF with some very very expert problems. However, I am very very very far away from an expert and thus did not complete any expert problems on my own... hehe.
 
+I decided to write up all the problems (especially the easy ones) because:
+1: I want to make my writeup folder seem BIGGG
+2: Some of the easy ones were tricky too and I think they deserve a writeup!
+
 Had a small game on the side too, but was only for entertainment and didn't provide points or help whatsoever. As a result I didn't complete the game, but I heard it was a pretty good game overall.
 
 The points system in this CTF went from 10-500. Almost all problems were well weighted, but some problems weren't really ranked properly in terms of points (tunn3l-vis10n or more cookies come to mind, both were worth much less than what they should have been). Thankfully, points were adjusted for the practice (but on the downside, some points in the table below *may* be inaccurate, eg GET aHEAD).
